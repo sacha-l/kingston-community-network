@@ -55,7 +55,7 @@ const FeaturesTiles = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
+          {/* <SectionHeader data={sectionHeader} className="center-content" /> */}
           <div className={tilesClasses}>
 
             <div className="tiles-item reveal-from-bottom">
@@ -71,20 +71,20 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Technical Infrastructure
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Kingston Community Network is based on proven mesh network technology leveraging the 10 year long expertise of Bitswift, a Kingston based company.
                     </p>
                 </div>
               </div>
             </div>
-
+               
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
-                    <Image
+                    <Image                     
                       src={require('./../../assets/images/feature-tile-icon-02.svg')}
                       alt="Features tile icon 02"
                       width={64}
@@ -93,7 +93,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Empowering Local Businesses 
                     </h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
@@ -101,7 +101,7 @@ const FeaturesTiles = ({
                 </div>
               </div>
             </div>
-
+{/*
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
@@ -188,9 +188,9 @@ const FeaturesTiles = ({
                     </p>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-          </div>
+          </div> 
         </div>
       </div>
     </section>

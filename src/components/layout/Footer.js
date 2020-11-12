@@ -41,11 +41,11 @@ const Footer = ({
           )}>
           <div className="footer-top space-between text-xxs">
             <Logo />
-            <FooterSocial />
+            {/* <FooterSocial /> //leave this out for now*/} 
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://cruip.com">Cruip</a>. All right reserved</div>
+            {/* <FooterNav /> //leave this out for now*/}
+            <div className="footer-copyright">We ❤️ open source. Thank you <a href="https://cruip.com">Cruip</a> for providing this React template. </div>
           </div>
         </div>
       </div>
