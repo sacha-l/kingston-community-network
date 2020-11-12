@@ -61,7 +61,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Kingston Community <span className="text-color-primary">Network</span>
+            Kingston Community Network
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="2000">
@@ -70,10 +70,10 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="4000">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Lean More
+                  <span className="text-color-secondary"> Lean More</span>
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <span className="text-color-secondary"> View on Github </span>
                     </Button>
                 </ButtonGroup>
               </div>

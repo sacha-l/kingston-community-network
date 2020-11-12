@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Technical Infrastructure
+                    Proven Technical Infrastructure
                     </h4>
                   <p className="m-0 text-sm">
                     Kingston Community Network is based on proven mesh network technology leveraging the 10 year long expertise of Bitswift, a Kingston based company.
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Empowering Local Businesses 
+                    Free Internet, Free Promotion 
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Any device wishing to connect to the KCN will be prompted with a splash page detailing the terms of using KCN, followed by a mention of all the supporting businesses. 
                     </p>
                 </div>
               </div>

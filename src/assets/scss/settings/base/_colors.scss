@@ -3,10 +3,11 @@
 // The color palette
 $palette: (
 	light: (
-		1: #ECEDED,
+		1: #5658DD,
 		2: #9CA9B3,
-		3: #717D86
-	),
+		3: #717D86,
+		4: #ECEDED
+			),
 	dark: (
 		1: #151719,
 		2: #25282C,
@@ -39,7 +40,7 @@ $color: (
 	mid-contrast: 			get-color(light, 2),
 	low-contrast: 			get-color(light, 3),
 	primary:				get-color(primary, 3),
-	secondary:				get-color(secondary, 1),
+	secondary:				get-color(primary, 4),
 	error:					get-color(alert, error),
 	warning:				get-color(alert, warning),
 	success:				get-color(alert, success),

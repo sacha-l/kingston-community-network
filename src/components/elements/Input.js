@@ -74,9 +74,9 @@ const Input = ({
     <>
       {label && <FormLabel labelHidden={labelHidden} id={props.id}>{label}</FormLabel>}
       <div
-        className={wrapperClasses}
+        className={wrapperClasses} 
       >
-        <Component
+        <Component 
           {...props}
           type={type !== 'textarea' ? type : null}
           className={classes}

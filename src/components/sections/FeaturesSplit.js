@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Our Ambition',
+    paragraph: 'To drive customers to purchase from participating businesses and empower businesses with a new way for pedestrians to discover what they offer.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Empowering local 
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                <span className="text-color-primary">Easy participation.</span>
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Businesses participate by allocating their internet bandwidth to the KCN. With access points already available in most businesses, this requires little setup or configuration. This doesn't take away from the connection speed of the participating business, it only pools resources to allow for a limited capacity connection that other nearby businesses are contributing to. 
                   </p>
               </div>
               <div className={
@@ -93,14 +93,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Free Wi-Fi for Pedestrians
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Reliable, Secure.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                This means that a connected pedestrian walking from store A to store D, where all stores A-D have participating access points, will likely be consuming bandwidth from multiple business access points on their journey from A to D. 
+                </p>
               </div>
               <div className={
                 classNames(
@@ -119,14 +119,40 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  How it works
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Mesh magic.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                It's like being connected to the Wi-Fi of a 4 story house and going from the basement to the top floor: at no point do you lose connection, rather your device adapts to connect to the access point closest to you. This type of infrastructure is called a Mesh Network and is a popular choice to ensure no downtime and maximum reliability.
+                </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/features-split-image-03.png')}
+                  alt="Features split 03"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  No risk of downtime
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  More mesh magic.
+                  </h3>
+                <p className="m-0">
+                This decentralized model implies that in a network of 3 participating businesses for example, if the access point or bandwidth is down for one business and the other access points are in close enough range, the business whose connection is down can rely on KCN to maintain a connection. Additionally, the more businesses participating in the network, the wider the network coverage is. Useful for localized power outages for example.
+                </p>
               </div>
               <div className={
                 classNames(

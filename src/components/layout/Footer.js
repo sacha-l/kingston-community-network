@@ -39,13 +39,14 @@ const Footer = ({
             'site-footer-inner',
             topDivider && 'has-top-divider'
           )}>
-          <div className="footer-top space-between text-xxs">
+          {/* <div className="footer-top space-between text-xxs">
             <Logo />
-            {/* <FooterSocial /> //leave this out for now*/} 
-          </div>
+            <FooterSocial /> //leave this out for now 
+          </div> */}
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            {/* <FooterNav /> //leave this out for now*/}
+            {/* <FooterNav />  */}
             <div className="footer-copyright">We ❤️ open source. Thank you <a href="https://cruip.com">Cruip</a> for providing this React template. </div>
+            <div className="footer-copyright"> A <a href="https://bitswift.tech/"> Bitswift Technology Solutions</a> initiative.</div>
           </div>
         </div>
       </div>
