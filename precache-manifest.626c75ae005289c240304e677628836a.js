@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a5f090ef7dddff9c1567e0be49a5df9",
+    "revision": "264fb63382e5676111f37482855100cd",
     "url": "/kingston-community-network/index.html"
   },
   {
-    "revision": "03cef8f48e17ed416158",
+    "revision": "0372da12b77130c0eb0e",
     "url": "/kingston-community-network/static/css/main.54e1a4d0.chunk.css"
   },
   {
-    "revision": "978470d63fca43308061",
-    "url": "/kingston-community-network/static/js/2.a6553bcd.chunk.js"
+    "revision": "3dbfb7eb2c634c003321",
+    "url": "/kingston-community-network/static/js/2.d39c92a6.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/kingston-community-network/static/js/2.a6553bcd.chunk.js.LICENSE.txt"
+    "url": "/kingston-community-network/static/js/2.d39c92a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03cef8f48e17ed416158",
-    "url": "/kingston-community-network/static/js/main.b8d89cba.chunk.js"
+    "revision": "0372da12b77130c0eb0e",
+    "url": "/kingston-community-network/static/js/main.eceb135d.chunk.js"
   },
   {
-    "revision": "3ca0cd55da3a3516db91",
-    "url": "/kingston-community-network/static/js/runtime-main.8943cd12.js"
+    "revision": "f961b97906fc4dd01a98",
+    "url": "/kingston-community-network/static/js/runtime-main.47e550d0.js"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",

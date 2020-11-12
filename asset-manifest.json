@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kingston-community-network/static/css/main.54e1a4d0.chunk.css",
-    "main.js": "/kingston-community-network/static/js/main.b8d89cba.chunk.js",
-    "main.js.map": "/kingston-community-network/static/js/main.b8d89cba.chunk.js.map",
-    "runtime-main.js": "/kingston-community-network/static/js/runtime-main.8943cd12.js",
-    "runtime-main.js.map": "/kingston-community-network/static/js/runtime-main.8943cd12.js.map",
-    "static/js/2.a6553bcd.chunk.js": "/kingston-community-network/static/js/2.a6553bcd.chunk.js",
-    "static/js/2.a6553bcd.chunk.js.map": "/kingston-community-network/static/js/2.a6553bcd.chunk.js.map",
+    "main.js": "/kingston-community-network/static/js/main.eceb135d.chunk.js",
+    "main.js.map": "/kingston-community-network/static/js/main.eceb135d.chunk.js.map",
+    "runtime-main.js": "/kingston-community-network/static/js/runtime-main.47e550d0.js",
+    "runtime-main.js.map": "/kingston-community-network/static/js/runtime-main.47e550d0.js.map",
+    "static/js/2.d39c92a6.chunk.js": "/kingston-community-network/static/js/2.d39c92a6.chunk.js",
+    "static/js/2.d39c92a6.chunk.js.map": "/kingston-community-network/static/js/2.d39c92a6.chunk.js.map",
     "index.html": "/kingston-community-network/index.html",
-    "precache-manifest.612ed0a630e087921cd9fdcd62ca6e56.js": "/kingston-community-network/precache-manifest.612ed0a630e087921cd9fdcd62ca6e56.js",
+    "precache-manifest.626c75ae005289c240304e677628836a.js": "/kingston-community-network/precache-manifest.626c75ae005289c240304e677628836a.js",
     "service-worker.js": "/kingston-community-network/service-worker.js",
     "static/css/main.54e1a4d0.chunk.css.map": "/kingston-community-network/static/css/main.54e1a4d0.chunk.css.map",
-    "static/js/2.a6553bcd.chunk.js.LICENSE.txt": "/kingston-community-network/static/js/2.a6553bcd.chunk.js.LICENSE.txt",
+    "static/js/2.d39c92a6.chunk.js.LICENSE.txt": "/kingston-community-network/static/js/2.d39c92a6.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/kingston-community-network/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/kingston-community-network/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/kingston-community-network/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -21,9 +21,9 @@
     "static/media/logo.svg": "/kingston-community-network/static/media/logo.2810a88b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8943cd12.js",
-    "static/js/2.a6553bcd.chunk.js",
+    "static/js/runtime-main.47e550d0.js",
+    "static/js/2.d39c92a6.chunk.js",
     "static/css/main.54e1a4d0.chunk.css",
-    "static/js/main.b8d89cba.chunk.js"
+    "static/js/main.eceb135d.chunk.js"
   ]
 }

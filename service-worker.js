@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kingston-community-network/precache-manifest.612ed0a630e087921cd9fdcd62ca6e56.js"
+  "/kingston-community-network/precache-manifest.626c75ae005289c240304e677628836a.js"
 );
 
 self.addEventListener('message', (event) => {
