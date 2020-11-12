@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kingston-community-network/static/css/main.54e1a4d0.chunk.css",
-    "main.js": "/kingston-community-network/static/js/main.eceb135d.chunk.js",
-    "main.js.map": "/kingston-community-network/static/js/main.eceb135d.chunk.js.map",
-    "runtime-main.js": "/kingston-community-network/static/js/runtime-main.47e550d0.js",
-    "runtime-main.js.map": "/kingston-community-network/static/js/runtime-main.47e550d0.js.map",
-    "static/js/2.d39c92a6.chunk.js": "/kingston-community-network/static/js/2.d39c92a6.chunk.js",
-    "static/js/2.d39c92a6.chunk.js.map": "/kingston-community-network/static/js/2.d39c92a6.chunk.js.map",
-    "index.html": "/kingston-community-network/index.html",
-    "precache-manifest.626c75ae005289c240304e677628836a.js": "/kingston-community-network/precache-manifest.626c75ae005289c240304e677628836a.js",
-    "service-worker.js": "/kingston-community-network/service-worker.js",
-    "static/css/main.54e1a4d0.chunk.css.map": "/kingston-community-network/static/css/main.54e1a4d0.chunk.css.map",
-    "static/js/2.d39c92a6.chunk.js.LICENSE.txt": "/kingston-community-network/static/js/2.d39c92a6.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/kingston-community-network/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/kingston-community-network/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/kingston-community-network/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/features-split-image-01.png": "/kingston-community-network/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/kingston-community-network/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/kingston-community-network/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.svg": "/kingston-community-network/static/media/logo.2810a88b.svg"
+    "main.css": "/kingston-community-network/website/static/css/main.772cffb7.chunk.css",
+    "main.js": "/kingston-community-network/website/static/js/main.8c4cdc83.chunk.js",
+    "main.js.map": "/kingston-community-network/website/static/js/main.8c4cdc83.chunk.js.map",
+    "runtime-main.js": "/kingston-community-network/website/static/js/runtime-main.083bd4d2.js",
+    "runtime-main.js.map": "/kingston-community-network/website/static/js/runtime-main.083bd4d2.js.map",
+    "static/js/2.d39c92a6.chunk.js": "/kingston-community-network/website/static/js/2.d39c92a6.chunk.js",
+    "static/js/2.d39c92a6.chunk.js.map": "/kingston-community-network/website/static/js/2.d39c92a6.chunk.js.map",
+    "index.html": "/kingston-community-network/website/index.html",
+    "precache-manifest.7b8556573a0b09431324850eaf2ca79d.js": "/kingston-community-network/website/precache-manifest.7b8556573a0b09431324850eaf2ca79d.js",
+    "service-worker.js": "/kingston-community-network/website/service-worker.js",
+    "static/css/main.772cffb7.chunk.css.map": "/kingston-community-network/website/static/css/main.772cffb7.chunk.css.map",
+    "static/js/2.d39c92a6.chunk.js.LICENSE.txt": "/kingston-community-network/website/static/js/2.d39c92a6.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/kingston-community-network/website/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/kingston-community-network/website/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/kingston-community-network/website/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/features-split-image-01.png": "/kingston-community-network/website/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/kingston-community-network/website/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/kingston-community-network/website/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/kingston-community-network/website/static/media/logo.2810a88b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47e550d0.js",
+    "static/js/runtime-main.083bd4d2.js",
     "static/js/2.d39c92a6.chunk.js",
-    "static/css/main.54e1a4d0.chunk.css",
-    "static/js/main.eceb135d.chunk.js"
+    "static/css/main.772cffb7.chunk.css",
+    "static/js/main.8c4cdc83.chunk.js"
   ]
 }
