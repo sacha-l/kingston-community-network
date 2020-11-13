@@ -12,14 +12,18 @@
   * [Access to Token Rewards](#Access-to-Token-Rewards)
 
 ## About
-The Kingston Community Network is an initiative conceived by [Bitswift](https://www.bitswift.io/), aiming to bring free Wi-Fi connectivity across downtown and uptown Kingston, Ontario (Canada) while providing a platform for businesses to advertise their products to connecting passerbys. 
+The Kingston Community Network is an initiative conceived by [Bitswift](https://www.bitswift.io/), aiming to connect customers to businesses with the goal of stimulating the local economy. The network is composed of local businesses contributing their network resources in and effort to provide the community with Free Wi-Fi internet service while passivly offering a promotional platform for the businesses involved. KCN uses pre-existing network infrastrucure to provide a platform for local businesses to advertise their products or services directly into the hands of people nearby.    
 
 This way, KCN aims to be a catalyst for:
 
-- Free internet access without the need to rely on a single internet provider
--  Driving local engagement with local businesses and their daily specials
+-  Free community driven internet access without the need to rely on a single internet provider
+-  Driving engagement with local businesses boosting the local economy
+-  Connecting businesses to each other and their customers by way of 2.4 and 5g wireless.
+-  Providing new and innovative mechanisms for businesses to reach potential customers
+-  Providing the framework for a community governed distributed network service
+-  Connecting busineses to the crypto economy 
 
-Bitswift Inc. is a technology company based in Kingston, ON, in operation since 2014 servicing clients for their IT infrastructure and connectivity needs. Over the years it has grown into a multifaceted company spearheading the use of cutting edge technologies for Kingston businesses and homes such as mesh networks, utility for digital assets and basic IT infrastructure needs. 
+Bitswift Technology Solutions Inc. is a technology company based in Kingston, ON, in operation since 2017 servicing clients for their IT infrastructure and connectivity needs. Over the years it has grown into a multifaceted company spearheading the use of cutting edge technologies for Kingston businesses and homes such as mesh networks, utility for digital assets and basic IT infrastructure needs. 
 
 ## Why this repo ?
 First and foremost, this repo is a place for people interested in this initiative to keep track of its rollout. It's more importantly a place for developers to propose changes or contribute to what's already here. This can range from modifications in the website's copy, to creating the backend for handling business onboarding. Just make a pull request. :wink:
