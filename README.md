@@ -35,7 +35,10 @@ Built using a fantastic template released under the [GPL](https://www.gnu.org/li
 This is an actively maintained todo list for new features. It will soon be ported over to Issues:
 - **Basic Splash page template**: a splash page with place for participating businesses to have their logo and website URL
 - **Sign up**: a place for businesses to sign up to receive next steps for onboard process
+- **Pilot**: Initital pilot with one or two aps covering core down town block in front of city hall, city park, and boat docking areas 
 - **Dashboard**: for businesses who login
+- **Network Design**: Network Design & Engineering, Hardware spec
+- **Partner Sign ups**: Example, South Eastern Telecommunications for supplying internet uplinks
 - ... And a lot more but this is good for now :smiley:
 
 ### License
