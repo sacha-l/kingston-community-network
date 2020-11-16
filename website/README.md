@@ -1,5 +1,10 @@
 # KCN Website
 
+To run locally:
+```bashn
+npm install && npm start
+```
+
 ### Immediate goals
 - Informative: present what KCN is and how people can use it
 - Contact point: allow people to subscribe to updates with KCN and for businesses to inquire about joining the network
