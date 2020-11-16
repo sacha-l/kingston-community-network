@@ -1,7 +1,8 @@
 # KCN Website
 
-To run locally:
-```bashn
+## To run locally
+clone this directory, cd into it and (assuming you have npm already installed) run:
+```bash
 npm install && npm start
 ```
 
