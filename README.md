@@ -39,7 +39,7 @@ This is an actively maintained todo list for new features. It will soon be porte
 - **Dashboard**: for businesses who login
 - **Network Design**: Network Design & Engineering, Hardware spec
 - **Partner Sign ups**: Example, South Eastern Telecommunications for supplying internet uplinks (secure internet services, secure physical locations and get approval on future locations)
-- **Terms and Conditions 
+- **Terms and Conditions** 
 - ... And a lot more but this is good for now :smiley:
 
 ### License
