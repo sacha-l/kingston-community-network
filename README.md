@@ -38,7 +38,8 @@ This is an actively maintained todo list for new features. It will soon be porte
 - **Pilot**: Initital pilot with one or two aps covering core down town block in front of city hall, city park, and boat docking areas 
 - **Dashboard**: for businesses who login
 - **Network Design**: Network Design & Engineering, Hardware spec
-- **Partner Sign ups**: Example, South Eastern Telecommunications for supplying internet uplinks
+- **Partner Sign ups**: Example, South Eastern Telecommunications for supplying internet uplinks (secure internet services, secure physical locations and get approval on future locations)
+- **Terms and Conditions 
 - ... And a lot more but this is good for now :smiley:
 
 ### License
@@ -56,3 +57,6 @@ Here we plan to build out a dashboard for businesses to use KCN to customize the
 
 ### Access to Token Rewards
 As a final feature to KCN, we envision giving businesses the option to reward their customers with either general purpose KCN tokens or business specific tokens. These would be secured as digital assets on a public blockchain. For example, a customer receives KCN tokens for referring a local business to a friend. Those tokens can be spent on whichever business connected to KCN accepts them. Tokens can be created and managed by businesses themselves. [Bitswift](https://www.bitswift.io/) provides good guidance for using this world. :moneybag:
+
+### Splash Page
+The network splash page will consist of advertising options for participating businesses along with Terms and Conditions for using the network.  Participating businesses includes those which are offering their bandwidth and network services to provide for the KCN.  Splash page will also be used to authenticate users who are connecting the the KCN.  Users connecting to the KCN SSID will be immideiately redirected to the KCN splash page and will not be able to utilizie the network otherwise. 
