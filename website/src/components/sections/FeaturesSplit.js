@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                   Empowering local 
                   </div>
                 <h3 className="mt-0 mb-12">
-                <span className="text-color-primary">Easy participation.</span>
+                Easy participation.
                   </h3>
                 <p className="m-0">
                 Businesses participate by allocating their internet bandwidth to the KCN. With access points already available in most businesses, this requires little setup or configuration. This doesn't take away from the connection speed of the participating business, it only pools resources to allow for a limited capacity connection that other nearby businesses are contributing to. 
@@ -83,8 +83,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
-                  alt="Features split 01"
+                  src={require('./../../assets/images/bitswift-mobile.png')}
+                  alt="Bitswift Mobile"
                   width={528}
                   height={396} />
               </div>
@@ -109,8 +109,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
-                  alt="Features split 02"
+                  src={require('./../../assets/images/bitswift-security.png')}
+                  alt="Bitswift Security"
                   width={528}
                   height={396} />
               </div>
@@ -135,8 +135,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
+                  src={require('./../../assets/images/bitswift-house.png')}
+                  alt="Bitswift House"
                   width={528}
                   height={396} />
               </div>
@@ -161,8 +161,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
+                  src={require('./../../assets/images/bitswift-wifi.png')}
+                  alt="Bitswift Wifi"
                   width={528}
                   height={396} />
               </div>

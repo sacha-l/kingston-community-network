@@ -53,7 +53,7 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-            <span className="text-color-secondary">Curious? Get in touch with us.</span>
+            <span className="text-color-custom">Curious? Get in touch with us.</span>
               </h3>
           </div>
           <div className="cta-action">

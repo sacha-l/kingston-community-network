@@ -1,5 +1,5 @@
 {
-  "name": "open-react-template",
+  "name": "kcn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,11 +10,11 @@
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": "https://github.com/sacha-l/kingston-community-network/website"
   },
   "scripts": {
     "start": "react-scripts start",

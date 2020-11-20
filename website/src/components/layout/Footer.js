@@ -45,8 +45,8 @@ const Footer = ({
           </div> */}
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             {/* <FooterNav />  */}
-            <div className="footer-copyright">We ❤️ open source. Thank you <a href="https://cruip.com">Cruip</a> for providing this React template. </div>
-            <div className="footer-copyright"> A <a href="https://bitswift.tech/"> Bitswift Technology Solutions</a> initiative.</div>
+            <div className="footer-copyright">We ❤️ open source. Thank you <a href="https://cruip.com">Cruip</a> for providing this React template. Icons made by <a href="https://www.flaticon.com/authors/srip" title="srip">srip</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></div>
+            <div className="footer-copyright"> A <a href="https://bitswift.tech/"> <Logo /> </a> initiative.</div>
           </div>
         </div>
       </div>

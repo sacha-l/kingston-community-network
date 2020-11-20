@@ -16,10 +16,10 @@
 
 // Hero illustration
 .illustration-section-01::after {
-	@include illustration('illustration-section-01.svg', 100%, 286px, top);
+	@include illustration('Bitswift_Grid-Horizontal-Alt-1.png', 100%, 420px, top);
 }
 
 // Features illustration 02
 .illustration-section-02::after {
-	@include illustration('illustration-section-02.svg', 100%, 253px, null, null, 30px);
+	@include illustration('Bitswift_Grid-Verticle-1.png', 100%, 253px, null, null, 30px);
 }
