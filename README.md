@@ -21,7 +21,7 @@ This way, KCN aims to be a catalyst for:
 -  Connecting businesses to each other and their customers by way of 2.4 and 5g wireless.
 -  Providing new and innovative mechanisms for businesses to reach potential customers
 -  Providing the framework for a community governed distributed network service
--  Connecting busineses to the crypto economy 
+-  Connecting business to the token economy 
 
 Bitswift Technology Solutions Inc. is a technology company based in Kingston, ON, in operation since 2017 servicing clients for their IT infrastructure and connectivity needs. Over the years it has grown into a multifaceted company spearheading the use of cutting edge technologies for Kingston businesses and homes such as mesh networks, utility for digital assets and basic IT infrastructure needs. 
 
